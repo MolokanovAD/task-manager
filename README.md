@@ -1,0 +1,1 @@
+task-manager distributes tasks among computing-nodes.
